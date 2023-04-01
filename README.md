@@ -1,7 +1,6 @@
 
 Opensource prompts for arible.co/prompts. Precursor to the future Arible Format
 
-
 Simdi: Hey, have you seen this idea about a Universal Prompt Format for AI-generated images? It aims to make reproducing the same image easier by including all the necessary information in a single file.
 
 P1: Oh, that sounds interesting! How would it work?

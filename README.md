@@ -5,7 +5,7 @@
 Simdi: 
 
 > Hey, have you seen this idea about a Universal Prompt Format for
-> AI-generated images? It aims to make reproducing the same image easier
+> AI-generated images? It aims to allow reproducing the same image exactly
 > by including all the necessary information in a single file.
 
 P1: 

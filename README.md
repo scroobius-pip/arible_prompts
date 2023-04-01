@@ -62,3 +62,5 @@ Simdi:
 > about the changes, supporting branching and merging for collaboration.
 > This approach would simplify managing and reviewing changes when
 > working with different models and user inputs.
+
+Follow me on twitter: @nintharc for updates

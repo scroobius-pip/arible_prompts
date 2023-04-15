@@ -1,6 +1,6 @@
 
 
-**Opensource prompts for arible.co/prompts, precursor to the arible format**
+**Opensource prompts for [arible.co](arible.co/prompts), precursor to the arible format**
 
 Simdi: 
 
